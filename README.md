@@ -13,6 +13,7 @@ Explain what software engineering is and discuss its importance in the technolog
   * Build the systems that keep our information safe.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 1.Ada Lovelace’s Analytical Engine
   Laid the theoretical foundation for programmable machines and the idea of software as distinct from hardware.
 2.High-Level Programming Languages
@@ -46,6 +47,7 @@ Agile Methodology
 [b].Agile: A tech startup developing a new mobile application would benefit from the Agile approach as the market and user preferences can change rapidly, and the ability to pivot and adapt to new information is crucial for success.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
  1.Software Developer (Builder):
  -They write the code that makes the software work.
 -They turn ideas into actual programs.
@@ -60,6 +62,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
  -They make sure the team works together smoothly.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 1.IDEs (Integrated Development Environments)
 -Boost Productivity: All coding tools in one place.
 -Reduce Errors: Syntax highlighting & debugging help.
@@ -70,6 +73,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 -Track & Revert Changes: Keeps a history of edits.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
  1.Requirement Volatility:
   Beyond just Agile, it's vital to establish a clear "definition of done" with stakeholders. This includes detailed user stories, acceptance criteria, and regular feedback loops. Furthermore, implementing prototyping and mock-ups can help visualize requirements and catch potential issues early on.
  2.Complex Debugging:
@@ -93,6 +97,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
  1 Little tests (Unit): Check each tiny part works alone.
  2 Medium tests (Integration): Check how parts work together.
  3 Big tests (System): Check the whole system works.
