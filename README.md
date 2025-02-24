@@ -32,10 +32,14 @@ List and briefly explain the phases of the Software Development Life Cycle.
  6.Maintain: Keep the software working and updated.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+    
      Waterfall Methodology:
 1.Linear and Sequential: Waterfall is a linear approach where each phase of the SDLC is completed before moving on to the next. It follows a strict sequence: Requirements, Design, Implementation, Verification, and Maintenance.
+
 2.Documentation: Heavy emphasis is placed on documentation. Detailed records are kept for each phase, which can be beneficial for regulatory compliance and for projects that require a clear audit trail.
+
 3.Predictability: Since the scope and requirements are defined upfront, it's easier to predict timelines and budgets.
+
 4.Inflexibility: Changes are difficult to implement once the process has started, as each phase is dependent on the deliverables of the previous one.
     *Suitable Scenarios Waterfall is well-suited for projects with well-defined requirements and where changes are unlikely.Examples include construction projects, manufacturing, and situations where regulatory conditions require a strict adherence to procedures.
 Agile Methodology
