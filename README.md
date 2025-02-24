@@ -16,9 +16,11 @@ Identify and describe at least three key milestones in the evolution of software
 
 1.Ada Lovelace’s Analytical Engine
   Laid the theoretical foundation for programmable machines and the idea of software as distinct from hardware.
+
 2.High-Level Programming Languages
   introduced the need for programming
   Initially, programmers used machine code or assembly language, which was error-prone and time-consuming
+
 3.The development of early electronic introduced the need for programming.
   The early programming languages and techniques laid the groundwork for all subsequent software development. Concepts like algorithms, data structures, and control flow were established, which are still fundamental today.
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -37,6 +39,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 4.Inflexibility: Changes are difficult to implement once the process has started, as each phase is dependent on the deliverables of the previous one.
     *Suitable Scenarios Waterfall is well-suited for projects with well-defined requirements and where changes are unlikely.Examples include construction projects, manufacturing, and situations where regulatory conditions require a strict adherence to procedures.
 Agile Methodology
+
 1. Iterative and Incremental: Agile is an iterative approach that focuses on collaboration, customer feedback, and small, rapid releases. It divides the project into small increments with minimal planning, and does not involve long-term planning.
 2. Flexibility: Agile is highly adaptable to changes. Requirements and solutions evolve through collaboration between self-organizing cross-functional teams.
 3. Customer Involvement: Continuous customer involvement is a key aspect of Agile, ensuring that the product meets their needs and can adapt to changing requirements.
